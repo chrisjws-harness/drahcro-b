@@ -12,7 +12,7 @@ repositories {
 }
 
 dependencies {
-    implementation("com.example:service-a:1.0.0")  // Uses Service A
+    implementation("com.example:service-a:1.0.0")
 }
 
 publishing {
